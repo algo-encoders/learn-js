@@ -1,0 +1,19 @@
+1. Node JS | Deno JS compiler
+2. Jetbrains Fleet IDE
+3. Github | Code space 
+
+
+Documentation:
+
+https://tc39.es/ecma262
+https://developer.mozilla.org/en-US/
+
+
+***Variables***
+
+1. const, var, let
+
+
+***Data Types***
+
+1. 
