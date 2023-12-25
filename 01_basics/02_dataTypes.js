@@ -29,4 +29,18 @@ console.log(typeof undefined) // undefined
 console.log(typeof null) //object
 
 
+var a = "hello"
+var b = a
+b = "Ja oye"
+
+let arr = [1, 2, 3]
+let bArr = arr;
+bArr[2] = 434;
+
+console.log(arr)
+
+
+console.log(a)
+
+
 
