@@ -62,3 +62,25 @@ console.log(Object.entries(tindorUser))
 
 console.log(tindorUser.hasOwnProperty('id'))
 
+
+const course = {
+    courseName: "JS in Hindi",
+    price: "999",
+    courseTeacher: "Abdul"
+}
+
+
+// course.courseName
+
+
+const {courseTeacher: teacher, price, courseName} = course;
+
+console.log(teacher)
+
+// json
+
+
+// {
+//     "name": "Abdul",
+//     "courseName": "hello"
+// }
